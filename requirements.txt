@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+torch
+streamlit
+shap
+joblib
+matplotlib
+seaborn
+pyyaml
+pytest
+scapy
+pyshark
+plotly
