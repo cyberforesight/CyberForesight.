@@ -52,3 +52,12 @@ data/windows/
 *.log
 *.tmp
 *.pid
+#.md files
+agents.md
+architecture.md
+DESIGN.md
+decisions.md
+PRD.md
+RULES.md
+memory.md
+PHASES.md
